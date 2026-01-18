@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AppProjects/CornerStone/app/src/main/java/net/openvpn/openvpn/LoginActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 4772,
+          "line": 123
+        },
+        "start": {
+          "column": 0,
+          "index": 4772,
+          "line": 123
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AppProjects/CornerStone/app/src/main/java/net/openvpn/openvpn/LoginActivity.java"
+}
